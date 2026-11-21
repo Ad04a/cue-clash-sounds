@@ -1,0 +1,995 @@
+[
+ {
+  "name": "match_found",
+  "group": "match",
+  "variants": 1,
+  "loop": false,
+  "channels": 2,
+  "target": -15,
+  "description": "Opponent found: whoosh in, rising arpeggio, a ball clack accent.",
+  "files": [
+   {
+    "file": "match/match_found",
+    "dur_s": 1.629,
+    "peak_db": -5.9,
+    "loud": -15.0,
+    "dc": 0.0,
+    "clipped": 0,
+    "tail_db": -77.6,
+    "start_db": -168.4,
+    "lr_corr": 0.72,
+    "limited_db": 0.0
+   }
+  ]
+ },
+ {
+  "name": "countdown_tick",
+  "group": "match",
+  "variants": 1,
+  "loop": false,
+  "channels": 2,
+  "target": -17,
+  "description": "3... 2... 1...: a cue-butt knock with a short tone.",
+  "files": [
+   {
+    "file": "match/countdown_tick",
+    "dur_s": 0.642,
+    "peak_db": -6.1,
+    "loud": -17.0,
+    "dc": 0.0,
+    "clipped": 0,
+    "tail_db": -77.7,
+    "start_db": -6.7,
+    "lr_corr": 0.98,
+    "limited_db": 0.0
+   }
+  ]
+ },
+ {
+  "name": "countdown_go",
+  "group": "match",
+  "variants": 1,
+  "loop": false,
+  "channels": 2,
+  "target": -13,
+  "description": "GO!: the break (cue strike into the pack), a bright chord and a low thump.",
+  "files": [
+   {
+    "file": "match/countdown_go",
+    "dur_s": 1.685,
+    "peak_db": -4.3,
+    "loud": -13.0,
+    "dc": 0.0,
+    "clipped": 0,
+    "tail_db": -76.6,
+    "start_db": -9.1,
+    "lr_corr": 0.88,
+    "limited_db": 0.0
+   }
+  ]
+ },
+ {
+  "name": "round_start",
+  "group": "match",
+  "variants": 1,
+  "loop": false,
+  "channels": 2,
+  "target": -13,
+  "description": "Round starts: chalking up, a rising whoosh, then the break with a short brass stab.",
+  "files": [
+   {
+    "file": "match/round_start",
+    "dur_s": 2.248,
+    "peak_db": -4.4,
+    "loud": -13.0,
+    "dc": 0.0,
+    "clipped": 0,
+    "tail_db": -76.2,
+    "start_db": -65.5,
+    "lr_corr": 0.83,
+    "limited_db": 0.0
+   }
+  ]
+ },
+ {
+  "name": "round_end",
+  "group": "match",
+  "variants": 1,
+  "loop": false,
+  "channels": 2,
+  "target": -16,
+  "description": "Round over: a ball rolls to a stop and drops; falling tones over a soft chord.",
+  "files": [
+   {
+    "file": "match/round_end",
+    "dur_s": 2.94,
+    "peak_db": -9.1,
+    "loud": -16.0,
+    "dc": 0.0,
+    "clipped": 0,
+    "tail_db": -80.1,
+    "start_db": -90.6,
+    "lr_corr": 0.82,
+    "limited_db": 0.0
+   }
+  ]
+ },
+ {
+  "name": "turn_yours",
+  "group": "match",
+  "variants": 1,
+  "loop": false,
+  "channels": 2,
+  "target": -17,
+  "description": "It's your shot: two bright rising clack tones and a chalk accent.",
+  "files": [
+   {
+    "file": "match/turn_yours",
+    "dur_s": 1.41,
+    "peak_db": -12.5,
+    "loud": -17.0,
+    "dc": 0.0,
+    "clipped": 0,
+    "tail_db": -83.8,
+    "start_db": -65.0,
+    "lr_corr": 0.9,
+    "limited_db": 0.0
+   }
+  ]
+ },
+ {
+  "name": "turn_opponent",
+  "group": "match",
+  "variants": 1,
+  "loop": false,
+  "channels": 2,
+  "target": -21,
+  "description": "Opponent's shot: softer, falling clack tones.",
+  "files": [
+   {
+    "file": "match/turn_opponent",
+    "dur_s": 1.38,
+    "peak_db": -14.7,
+    "loud": -21.0,
+    "dc": 0.0,
+    "clipped": 0,
+    "tail_db": -81.2,
+    "start_db": -20.1,
+    "lr_corr": 0.86,
+    "limited_db": 0.0
+   }
+  ]
+ },
+ {
+  "name": "shot_clock_tick",
+  "group": "match",
+  "variants": 2,
+  "loop": false,
+  "channels": 2,
+  "target": -22,
+  "description": "Shot clock tick / tock (cue butt on the floor).",
+  "files": [
+   {
+    "file": "match/shot_clock_tick_01",
+    "dur_s": 0.033,
+    "peak_db": -3.5,
+    "loud": -22.0,
+    "dc": 0.0,
+    "clipped": 0,
+    "tail_db": -88.9,
+    "start_db": -6.6,
+    "lr_corr": 1.0,
+    "limited_db": 0.0
+   },
+   {
+    "file": "match/shot_clock_tick_02",
+    "dur_s": 0.035,
+    "peak_db": -4.0,
+    "loud": -22.0,
+    "dc": 0.0,
+    "clipped": 0,
+    "tail_db": -86.8,
+    "start_db": -7.3,
+    "lr_corr": 1.0,
+    "limited_db": 0.0
+   }
+  ]
+ },
+ {
+  "name": "shot_clock_warning",
+  "group": "match",
+  "variants": 1,
+  "loop": false,
+  "channels": 2,
+  "target": -18,
+  "description": "Last seconds on the shot clock: quick double knock and a high tone.",
+  "files": [
+   {
+    "file": "match/shot_clock_warning",
+    "dur_s": 0.6,
+    "peak_db": -6.2,
+    "loud": -18.0,
+    "dc": 0.0,
+    "clipped": 0,
+    "tail_db": -70.6,
+    "start_db": -8.0,
+    "lr_corr": 1.0,
+    "limited_db": 0.0
+   }
+  ]
+ },
+ {
+  "name": "shot_clock_expired",
+  "group": "match",
+  "variants": 1,
+  "loop": false,
+  "channels": 2,
+  "target": -15,
+  "description": "Time's up: a miscue, a low clashing pair of tones, a dull thud.",
+  "files": [
+   {
+    "file": "match/shot_clock_expired",
+    "dur_s": 1.34,
+    "peak_db": -4.7,
+    "loud": -15.0,
+    "dc": 0.0,
+    "clipped": 0,
+    "tail_db": -80.8,
+    "start_db": -10.5,
+    "lr_corr": 0.88,
+    "limited_db": 0.0
+   }
+  ]
+ },
+ {
+  "name": "score_pot",
+  "group": "scoring",
+  "variants": 3,
+  "loop": false,
+  "channels": 2,
+  "target": -16,
+  "description": "A ball is potted: drops into the leather pocket, a bright tone and a little shine.",
+  "files": [
+   {
+    "file": "scoring/score_pot_01",
+    "dur_s": 1.608,
+    "peak_db": -9.4,
+    "loud": -16.0,
+    "dc": 0.0,
+    "clipped": 0,
+    "tail_db": -77.3,
+    "start_db": -18.0,
+    "lr_corr": 0.97,
+    "limited_db": 0.0
+   },
+   {
+    "file": "scoring/score_pot_02",
+    "dur_s": 1.563,
+    "peak_db": -8.6,
+    "loud": -16.0,
+    "dc": 0.0,
+    "clipped": 0,
+    "tail_db": -75.2,
+    "start_db": -16.6,
+    "lr_corr": 0.95,
+    "limited_db": 0.0
+   },
+   {
+    "file": "scoring/score_pot_03",
+    "dur_s": 1.639,
+    "peak_db": -9.5,
+    "loud": -16.0,
+    "dc": 0.0,
+    "clipped": 0,
+    "tail_db": -75.6,
+    "start_db": -21.1,
+    "lr_corr": 0.93,
+    "limited_db": 0.0
+   }
+  ]
+ },
+ {
+  "name": "score_combo_1",
+  "group": "scoring",
+  "variants": 1,
+  "loop": false,
+  "channels": 2,
+  "target": -15.5,
+  "description": "Pot number 1 in a row: the tone climbs (C6); from 3 a chord, 4 brass, 5 sparkle.",
+  "files": [
+   {
+    "file": "scoring/score_combo_1",
+    "dur_s": 1.66,
+    "peak_db": -10.0,
+    "loud": -15.5,
+    "dc": 0.0,
+    "clipped": 0,
+    "tail_db": -88.6,
+    "start_db": -12.9,
+    "lr_corr": 0.98,
+    "limited_db": 0.0
+   }
+  ]
+ },
+ {
+  "name": "score_combo_2",
+  "group": "scoring",
+  "variants": 1,
+  "loop": false,
+  "channels": 2,
+  "target": -15.0,
+  "description": "Pot number 2 in a row: the tone climbs (D6); from 3 a chord, 4 brass, 5 sparkle.",
+  "files": [
+   {
+    "file": "scoring/score_combo_2",
+    "dur_s": 1.693,
+    "peak_db": -9.7,
+    "loud": -15.0,
+    "dc": 0.0,
+    "clipped": 0,
+    "tail_db": -76.0,
+    "start_db": -14.1,
+    "lr_corr": 0.97,
+    "limited_db": 0.0
+   }
+  ]
+ },
+ {
+  "name": "score_combo_3",
+  "group": "scoring",
+  "variants": 1,
+  "loop": false,
+  "channels": 2,
+  "target": -14.5,
+  "description": "Pot number 3 in a row: the tone climbs (E6); from 3 a chord, 4 brass, 5 sparkle.",
+  "files": [
+   {
+    "file": "scoring/score_combo_3",
+    "dur_s": 1.771,
+    "peak_db": -10.2,
+    "loud": -14.5,
+    "dc": 0.0,
+    "clipped": 0,
+    "tail_db": -79.7,
+    "start_db": -14.9,
+    "lr_corr": 0.92,
+    "limited_db": 0.0
+   }
+  ]
+ },
+ {
+  "name": "score_combo_4",
+  "group": "scoring",
+  "variants": 1,
+  "loop": false,
+  "channels": 2,
+  "target": -14.0,
+  "description": "Pot number 4 in a row: the tone climbs (G6); from 3 a chord, 4 brass, 5 sparkle.",
+  "files": [
+   {
+    "file": "scoring/score_combo_4",
+    "dur_s": 1.756,
+    "peak_db": -9.9,
+    "loud": -14.0,
+    "dc": 0.0,
+    "clipped": 0,
+    "tail_db": -78.8,
+    "start_db": -16.3,
+    "lr_corr": 0.81,
+    "limited_db": 0.0
+   }
+  ]
+ },
+ {
+  "name": "score_combo_5",
+  "group": "scoring",
+  "variants": 1,
+  "loop": false,
+  "channels": 2,
+  "target": -13.5,
+  "description": "Pot number 5 in a row: the tone climbs (C7); from 3 a chord, 4 brass, 5 sparkle.",
+  "files": [
+   {
+    "file": "scoring/score_combo_5",
+    "dur_s": 2.019,
+    "peak_db": -6.7,
+    "loud": -13.5,
+    "dc": 0.0,
+    "clipped": 0,
+    "tail_db": -76.9,
+    "start_db": -15.3,
+    "lr_corr": 0.83,
+    "limited_db": 0.0
+   }
+  ]
+ },
+ {
+  "name": "score_eight_ball",
+  "group": "scoring",
+  "variants": 1,
+  "loop": false,
+  "channels": 2,
+  "target": -13,
+  "description": "The 8-ball goes down: deep thump, minor chord resolving to major, rising arpeggio.",
+  "files": [
+   {
+    "file": "scoring/score_eight_ball",
+    "dur_s": 2.647,
+    "peak_db": -5.6,
+    "loud": -13.0,
+    "dc": 0.0,
+    "clipped": 0,
+    "tail_db": -76.6,
+    "start_db": -13.3,
+    "lr_corr": 0.77,
+    "limited_db": 0.0
+   }
+  ]
+ },
+ {
+  "name": "foul",
+  "group": "scoring",
+  "variants": 1,
+  "loop": false,
+  "channels": 2,
+  "target": -16,
+  "description": "Foul / scratch: the cue ball drops, falling tones end in a low 'womp', dull knocks.",
+  "files": [
+   {
+    "file": "scoring/foul",
+    "dur_s": 2.209,
+    "peak_db": -8.0,
+    "loud": -16.0,
+    "dc": 0.0,
+    "clipped": 0,
+    "tail_db": -80.1,
+    "start_db": -16.2,
+    "lr_corr": 0.95,
+    "limited_db": 0.0
+   }
+  ]
+ },
+ {
+  "name": "trick_shot",
+  "group": "scoring",
+  "variants": 1,
+  "loop": false,
+  "channels": 2,
+  "target": -15,
+  "description": "Bank / trick shot bonus: cushion, clack, a fast rising run and some shine.",
+  "files": [
+   {
+    "file": "scoring/trick_shot",
+    "dur_s": 1.228,
+    "peak_db": -7.9,
+    "loud": -15.0,
+    "dc": 0.0,
+    "clipped": 0,
+    "tail_db": -74.8,
+    "start_db": -12.0,
+    "lr_corr": 0.75,
+    "limited_db": 0.0
+   }
+  ]
+ },
+ {
+  "name": "win",
+  "group": "results",
+  "variants": 1,
+  "loop": false,
+  "channels": 2,
+  "target": -13,
+  "description": "Match won (about 3 s): break, I-IV-V-I brass fanfare, melody, sparkle and a choir pad.",
+  "files": [
+   {
+    "file": "results/win",
+    "dur_s": 3.784,
+    "peak_db": -5.3,
+    "loud": -13.0,
+    "dc": 0.0,
+    "clipped": 0,
+    "tail_db": -77.0,
+    "start_db": -10.2,
+    "lr_corr": 0.83,
+    "limited_db": 0.0
+   }
+  ]
+ },
+ {
+  "name": "lose",
+  "group": "results",
+  "variants": 1,
+  "loop": false,
+  "channels": 2,
+  "target": -16,
+  "description": "Match lost (about 2.5 s): a ball rattles in the jaws and stays out; falling tones over D minor.",
+  "files": [
+   {
+    "file": "results/lose",
+    "dur_s": 3.967,
+    "peak_db": -10.4,
+    "loud": -16.0,
+    "dc": 0.0,
+    "clipped": 0,
+    "tail_db": -79.8,
+    "start_db": -12.8,
+    "lr_corr": 0.86,
+    "limited_db": 0.0
+   }
+  ]
+ },
+ {
+  "name": "win_short",
+  "group": "results",
+  "variants": 1,
+  "loop": false,
+  "channels": 2,
+  "target": -14,
+  "description": "Round won / short victory (about 1.2 s).",
+  "files": [
+   {
+    "file": "results/win_short",
+    "dur_s": 1.851,
+    "peak_db": -7.1,
+    "loud": -14.0,
+    "dc": 0.0,
+    "clipped": 0,
+    "tail_db": -78.3,
+    "start_db": -17.8,
+    "lr_corr": 0.77,
+    "limited_db": 0.0
+   }
+  ]
+ },
+ {
+  "name": "lose_short",
+  "group": "results",
+  "variants": 1,
+  "loop": false,
+  "channels": 2,
+  "target": -17,
+  "description": "Round lost / short defeat (about 1 s).",
+  "files": [
+   {
+    "file": "results/lose_short",
+    "dur_s": 1.562,
+    "peak_db": -10.7,
+    "loud": -17.0,
+    "dc": 0.0,
+    "clipped": 0,
+    "tail_db": -78.3,
+    "start_db": -21.1,
+    "lr_corr": 0.84,
+    "limited_db": 0.0
+   }
+  ]
+ },
+ {
+  "name": "draw",
+  "group": "results",
+  "variants": 1,
+  "loop": false,
+  "channels": 2,
+  "target": -17,
+  "description": "Draw: an open fifth knocked twice, neither up nor down.",
+  "files": [
+   {
+    "file": "results/draw",
+    "dur_s": 1.72,
+    "peak_db": -11.9,
+    "loud": -17.0,
+    "dc": 0.0,
+    "clipped": 0,
+    "tail_db": -87.2,
+    "start_db": -16.4,
+    "lr_corr": 0.91,
+    "limited_db": 0.0
+   }
+  ]
+ },
+ {
+  "name": "buy",
+  "group": "economy",
+  "variants": 2,
+  "loop": false,
+  "channels": 2,
+  "target": -15,
+  "description": "Purchase made: tokens clink, drop into a pocket, two bright tones and a glint.",
+  "files": [
+   {
+    "file": "economy/buy_01",
+    "dur_s": 1.759,
+    "peak_db": -9.8,
+    "loud": -15.0,
+    "dc": 0.0,
+    "clipped": 0,
+    "tail_db": -76.5,
+    "start_db": -21.0,
+    "lr_corr": 0.87,
+    "limited_db": 0.0
+   },
+   {
+    "file": "economy/buy_02",
+    "dur_s": 1.72,
+    "peak_db": -7.7,
+    "loud": -15.0,
+    "dc": 0.0,
+    "clipped": 0,
+    "tail_db": -83.9,
+    "start_db": -15.4,
+    "lr_corr": 0.96,
+    "limited_db": 0.0
+   }
+  ]
+ },
+ {
+  "name": "buy_fail",
+  "group": "economy",
+  "variants": 1,
+  "loop": false,
+  "channels": 2,
+  "target": -18,
+  "description": "Can't afford it: two dull knocks and a muted falling semitone.",
+  "files": [
+   {
+    "file": "economy/buy_fail",
+    "dur_s": 0.88,
+    "peak_db": -6.6,
+    "loud": -18.0,
+    "dc": 0.0,
+    "clipped": 0,
+    "tail_db": -70.0,
+    "start_db": -6.6,
+    "lr_corr": 1.0,
+    "limited_db": 0.0
+   }
+  ]
+ },
+ {
+  "name": "coins_gain",
+  "group": "economy",
+  "variants": 1,
+  "loop": false,
+  "channels": 2,
+  "target": -15,
+  "description": "Reward / coins collected: a shower of tokens and a fast rising run.",
+  "files": [
+   {
+    "file": "economy/coins_gain",
+    "dur_s": 1.491,
+    "peak_db": -7.5,
+    "loud": -15.0,
+    "dc": 0.0,
+    "clipped": 0,
+    "tail_db": -82.4,
+    "start_db": -240.0,
+    "lr_corr": 0.85,
+    "limited_db": 0.0
+   }
+  ]
+ },
+ {
+  "name": "coins_count_loop",
+  "group": "economy",
+  "variants": 1,
+  "loop": true,
+  "channels": 2,
+  "target": -22,
+  "description": "Seamless 0.6 s loop of coin ticks for a counter animation.",
+  "files": [
+   {
+    "file": "economy/coins_count_loop",
+    "dur_s": 0.6,
+    "peak_db": -11.3,
+    "loud": -21.0,
+    "dc": 1e-05,
+    "clipped": 0,
+    "tail_db": -28.9,
+    "start_db": -16.1,
+    "lr_corr": 0.96,
+    "limited_db": 0.0
+   }
+  ]
+ },
+ {
+  "name": "level_up",
+  "group": "economy",
+  "variants": 1,
+  "loop": false,
+  "channels": 2,
+  "target": -13,
+  "description": "Level up (about 2 s): riser into a break hit, brass chord, two-octave arpeggio, sparkle.",
+  "files": [
+   {
+    "file": "economy/level_up",
+    "dur_s": 3.261,
+    "peak_db": -5.5,
+    "loud": -13.0,
+    "dc": 0.0,
+    "clipped": 0,
+    "tail_db": -77.8,
+    "start_db": -178.2,
+    "lr_corr": 0.75,
+    "limited_db": 0.0
+   }
+  ]
+ },
+ {
+  "name": "achievement_unlock",
+  "group": "economy",
+  "variants": 1,
+  "loop": false,
+  "channels": 2,
+  "target": -14,
+  "description": "Achievement / unlock: rising clack tones, bells and a soft add9 pad.",
+  "files": [
+   {
+    "file": "economy/achievement_unlock",
+    "dur_s": 2.248,
+    "peak_db": -8.1,
+    "loud": -14.0,
+    "dc": 0.0,
+    "clipped": 0,
+    "tail_db": -80.2,
+    "start_db": -13.8,
+    "lr_corr": 0.82,
+    "limited_db": 0.0
+   }
+  ]
+ },
+ {
+  "name": "reveal_anticipation",
+  "group": "machine_reveal",
+  "variants": 1,
+  "loop": false,
+  "channels": 2,
+  "target": -21,
+  "description": "Build-up before the ball is shown (1.4 s, ends at its peak).",
+  "files": [
+   {
+    "file": "machine_reveal/reveal_anticipation",
+    "dur_s": 1.404,
+    "peak_db": -13.7,
+    "loud": -21.0,
+    "dc": 0.0,
+    "clipped": 0,
+    "tail_db": -27.7,
+    "start_db": -26.3,
+    "lr_corr": 0.82,
+    "limited_db": 0.0
+   }
+  ]
+ },
+ {
+  "name": "reveal_common",
+  "group": "machine_reveal",
+  "variants": 1,
+  "loop": false,
+  "channels": 2,
+  "target": -16,
+  "description": "Common ball: a plain clack and an open fifth.",
+  "files": [
+   {
+    "file": "machine_reveal/reveal_common",
+    "dur_s": 1.555,
+    "peak_db": -11.0,
+    "loud": -16.0,
+    "dc": 0.0,
+    "clipped": 0,
+    "tail_db": -83.8,
+    "start_db": -14.3,
+    "lr_corr": 0.95,
+    "limited_db": 0.0
+   }
+  ]
+ },
+ {
+  "name": "reveal_uncommon",
+  "group": "machine_reveal",
+  "variants": 1,
+  "loop": false,
+  "channels": 2,
+  "target": -15.5,
+  "description": "Uncommon ball: a rising three-note arpeggio with a faint bell.",
+  "files": [
+   {
+    "file": "machine_reveal/reveal_uncommon",
+    "dur_s": 1.743,
+    "peak_db": -9.6,
+    "loud": -15.5,
+    "dc": 0.0,
+    "clipped": 0,
+    "tail_db": -86.2,
+    "start_db": -17.3,
+    "lr_corr": 0.94,
+    "limited_db": 0.0
+   }
+  ]
+ },
+ {
+  "name": "reveal_rare",
+  "group": "machine_reveal",
+  "variants": 1,
+  "loop": false,
+  "channels": 2,
+  "target": -15,
+  "description": "Rare ball: whoosh in, pocket thump, a Cmaj9 arpeggio over a soft pad, a few sparkles.",
+  "files": [
+   {
+    "file": "machine_reveal/reveal_rare",
+    "dur_s": 2.418,
+    "peak_db": -7.4,
+    "loud": -15.0,
+    "dc": 0.0,
+    "clipped": 0,
+    "tail_db": -78.7,
+    "start_db": -182.1,
+    "lr_corr": 0.84,
+    "limited_db": 0.0
+   }
+  ]
+ },
+ {
+  "name": "reveal_epic",
+  "group": "machine_reveal",
+  "variants": 1,
+  "loop": false,
+  "channels": 2,
+  "target": -14,
+  "description": "Epic ball: riser, a break hit, Ab-to-C brass, a fast nine-note run, choir and sparkles.",
+  "files": [
+   {
+    "file": "machine_reveal/reveal_epic",
+    "dur_s": 3.3,
+    "peak_db": -5.8,
+    "loud": -14.0,
+    "dc": 0.0,
+    "clipped": 0,
+    "tail_db": -84.0,
+    "start_db": -163.9,
+    "lr_corr": 0.7,
+    "limited_db": 0.0
+   }
+  ]
+ },
+ {
+  "name": "reveal_legendary",
+  "group": "machine_reveal",
+  "variants": 1,
+  "loop": false,
+  "channels": 2,
+  "target": -13,
+  "description": "Legendary ball: clacks speeding up into a big break, 'da-da-DAA' brass fanfare, choir, gold shimmer.",
+  "files": [
+   {
+    "file": "machine_reveal/reveal_legendary",
+    "dur_s": 4.475,
+    "peak_db": -5.6,
+    "loud": -13.0,
+    "dc": 0.0,
+    "clipped": 0,
+    "tail_db": -81.5,
+    "start_db": -17.9,
+    "lr_corr": 0.73,
+    "limited_db": 0.0
+   }
+  ]
+ },
+ {
+  "name": "reveal_mythic",
+  "group": "machine_reveal",
+  "variants": 1,
+  "loop": false,
+  "channels": 2,
+  "target": -12.5,
+  "description": "Mythic ball: heartbeat clacks, a huge break, an otherworldly Lydian chord opening to a wide C major, all 15 rack balls ringing up and down.",
+  "files": [
+   {
+    "file": "machine_reveal/reveal_mythic",
+    "dur_s": 6.046,
+    "peak_db": -6.0,
+    "loud": -12.5,
+    "dc": 0.0,
+    "clipped": 0,
+    "tail_db": -81.4,
+    "start_db": -20.1,
+    "lr_corr": 0.65,
+    "limited_db": 0.0
+   }
+  ]
+ },
+ {
+  "name": "ball_won",
+  "group": "machine_reveal",
+  "variants": 1,
+  "loop": false,
+  "channels": 2,
+  "target": -15,
+  "description": "Short generic 'you got a ball' (for lists, repeats, or when the reveal is skipped).",
+  "files": [
+   {
+    "file": "machine_reveal/ball_won",
+    "dur_s": 1.989,
+    "peak_db": -9.6,
+    "loud": -15.0,
+    "dc": 0.0,
+    "clipped": 0,
+    "tail_db": -77.5,
+    "start_db": -17.2,
+    "lr_corr": 0.84,
+    "limited_db": 0.0
+   }
+  ]
+ },
+ {
+  "name": "lobby_room_tone_loop",
+  "group": "loops",
+  "variants": 1,
+  "loop": true,
+  "channels": 2,
+  "target": -36,
+  "description": "Seamless 40 s synthetic room tone with distant, reverberant ball clacks (licence-free).",
+  "files": [
+   {
+    "file": "loops/lobby_room_tone_loop",
+    "dur_s": 40.0,
+    "peak_db": -20.6,
+    "loud": -35.4,
+    "dc": 0.00026,
+    "clipped": 0,
+    "tail_db": -26.3,
+    "start_db": -26.1,
+    "lr_corr": -0.02,
+    "limited_db": 0.0
+   }
+  ]
+ },
+ {
+  "name": "pool_hall_ambience_loop",
+  "group": "loops",
+  "variants": 1,
+  "loop": true,
+  "channels": 2,
+  "target": null,
+  "description": "Seamless 60 s pool-hall ambience (CC0 recording, Lyon).",
+  "source": "4.1_68218__damien-bazin__lyon-ambience-salle-de-billard.mp3 (CC0, damien bazin, Freesound 68218), 51.0-111.0 s",
+  "files": [
+   {
+    "file": "loops/pool_hall_ambience_loop",
+    "dur_s": 60.0,
+    "peak_db": -1.0,
+    "loud": -18.7,
+    "dc": 6e-05,
+    "clipped": 0,
+    "tail_db": -30.7,
+    "start_db": -39.0,
+    "lr_corr": 0.76,
+    "limited_db": 0.0
+   }
+  ]
+ },
+ {
+  "name": "pool_hall_ambience_distant_loop",
+  "group": "loops",
+  "variants": 1,
+  "loop": true,
+  "channels": 2,
+  "target": null,
+  "description": "The same hall, muffled and quieter: for menus and the lobby.",
+  "source": "4.1_68218__damien-bazin__lyon-ambience-salle-de-billard.mp3 (CC0, damien bazin, Freesound 68218), 51.0-111.0 s",
+  "files": [
+   {
+    "file": "loops/pool_hall_ambience_distant_loop",
+    "dur_s": 60.0,
+    "peak_db": -11.0,
+    "loud": -23.0,
+    "dc": 6e-05,
+    "clipped": 0,
+    "tail_db": -32.1,
+    "start_db": -43.4,
+    "lr_corr": 0.75,
+    "limited_db": 0.0
+   }
+  ]
+ }
+]

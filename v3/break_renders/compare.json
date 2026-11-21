@@ -1,0 +1,77 @@
+{
+ "power035": {
+  "v3": {
+   "peak_db": -14.1,
+   "rms_db": -40.6,
+   "centroid_hz": 1736,
+   "low_share": 0.14,
+   "voices": 9
+  },
+  "v2_hybrid (real-shit)": {
+   "peak_db": -8.8,
+   "rms_db": -39.0,
+   "centroid_hz": 1782,
+   "low_share": 0.06
+  }
+ },
+ "power055": {
+  "v3": {
+   "peak_db": -4.5,
+   "rms_db": -34.5,
+   "centroid_hz": 1687,
+   "low_share": 0.12,
+   "voices": 16
+  },
+  "v2_hybrid (real-shit)": {
+   "peak_db": -2.8,
+   "rms_db": -36.7,
+   "centroid_hz": 1377,
+   "low_share": 0.13
+  }
+ },
+ "power075": {
+  "v3": {
+   "peak_db": -0.2,
+   "rms_db": -29.5,
+   "centroid_hz": 1870,
+   "low_share": 0.07,
+   "voices": 21
+  },
+  "v2_hybrid (real-shit)": {
+   "peak_db": -0.2,
+   "rms_db": -29.7,
+   "centroid_hz": 1600,
+   "low_share": 0.12
+  }
+ },
+ "power090": {
+  "v3": {
+   "peak_db": -0.2,
+   "rms_db": -31.4,
+   "centroid_hz": 2170,
+   "low_share": 0.1,
+   "voices": 33
+  },
+  "v2_hybrid (real-shit)": {
+   "peak_db": -0.2,
+   "rms_db": -28.1,
+   "centroid_hz": 1195,
+   "low_share": 0.38
+  }
+ },
+ "power100": {
+  "v3": {
+   "peak_db": -0.2,
+   "rms_db": -31.0,
+   "centroid_hz": 1982,
+   "low_share": 0.06,
+   "voices": 31
+  },
+  "v2_hybrid (real-shit)": {
+   "peak_db": -0.2,
+   "rms_db": -29.1,
+   "centroid_hz": 1863,
+   "low_share": 0.09
+  }
+ }
+}

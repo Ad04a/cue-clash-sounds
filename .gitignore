@@ -1,0 +1,13 @@
+# Over GitHub's 100 MB per-file limit. Its extracted files are kept right next to it in
+# downloads/itch/Pool_And_Billiards _SFX/ (CC0).
+downloads/itch/*.rar
+
+# Pixabay Content License: the raw files may not be redistributed on their own, and this
+# repo is public. Re-download them from the links in downloads/pixabay/README.md.
+# (The generated sounds don't use them; output/analysis/pixabay/ only has our spectrograms.)
+downloads/pixabay/*.mp3
+real-shit/alex_jauk-*.mp3
+
+# Python
+__pycache__/
+*.pyc

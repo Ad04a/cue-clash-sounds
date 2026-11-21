@@ -1,0 +1,373 @@
+{
+ "recorded": {
+  "cue": [
+   {
+    "file": "cue/*_01",
+    "source": "2.3_830221__kvv_audio__sprtindor_billiard-cue-ball-strike-01_kvv-audio_free.wav",
+    "t": 4.365,
+    "snr_db": 90.0,
+    "centroid_hz": 1570,
+    "lf_ratio": 0.15,
+    "t30_ms": 9.4,
+    "ring_db": 28.8,
+    "tail_db": -32.8,
+    "q_est": 27
+   },
+   {
+    "file": "cue/*_02",
+    "source": "2.3_830221__kvv_audio__sprtindor_billiard-cue-ball-strike-01_kvv-audio_free.wav",
+    "t": 2.41,
+    "snr_db": 86.7,
+    "centroid_hz": 1269,
+    "lf_ratio": 0.17,
+    "t30_ms": 10.2,
+    "ring_db": 32.1,
+    "tail_db": -30.2,
+    "q_est": 23
+   },
+   {
+    "file": "cue/*_03",
+    "source": "2.3_830221__kvv_audio__sprtindor_billiard-cue-ball-strike-01_kvv-audio_free.wav",
+    "t": 6.782,
+    "snr_db": 85.9,
+    "centroid_hz": 1528,
+    "lf_ratio": 0.12,
+    "t30_ms": 10.8,
+    "ring_db": 32.8,
+    "tail_db": -29.3,
+    "q_est": 21
+   },
+   {
+    "file": "cue/*_04",
+    "source": "2.1_350918__csaszi__billiard-pool-shots-csg.wav",
+    "t": 13.3484,
+    "snr_db": 62.6,
+    "centroid_hz": 1517,
+    "lf_ratio": 0.19,
+    "t30_ms": 13.1,
+    "ring_db": 24.3,
+    "tail_db": -24.8,
+    "q_est": 23
+   },
+   {
+    "file": "cue/*_05",
+    "source": "2.1_350918__csaszi__billiard-pool-shots-csg.wav",
+    "t": 9.8085,
+    "snr_db": 58.2,
+    "centroid_hz": 1151,
+    "lf_ratio": 0.29,
+    "t30_ms": 16.8,
+    "ring_db": 22.4,
+    "tail_db": -18.5,
+    "q_est": 30
+   },
+   {
+    "file": "cue/*_06",
+    "source": "3.4_204187__reg7783__pool_break.wav",
+    "t": 0.5368,
+    "snr_db": 53.3,
+    "centroid_hz": 975,
+    "lf_ratio": 0.44,
+    "t30_ms": 20.5,
+    "ring_db": 38.8,
+    "tail_db": -15.2,
+    "q_est": 45
+   },
+   {
+    "file": "cue/*_07",
+    "source": "3.3_432592__coral_island_studios__billiards3.wav",
+    "t": 0.2264,
+    "snr_db": 31.5,
+    "centroid_hz": 1084,
+    "lf_ratio": 0.67,
+    "t30_ms": 19.7,
+    "ring_db": 24.2,
+    "tail_db": -13.7,
+    "q_est": 26
+   }
+  ],
+  "ball": [
+   {
+    "file": "ball/*_01",
+    "source": "3.1_539854__za-games__billiard-ball-clack.wav",
+    "t": 0.006,
+    "snr_db": 95.7,
+    "centroid_hz": 2261,
+    "lf_ratio": 0.0,
+    "t30_ms": 7.8,
+    "ring_db": 41.7,
+    "tail_db": -25.8,
+    "q_est": 43
+   },
+   {
+    "file": "ball/*_02",
+    "source": "2.3_830221__kvv_audio__sprtindor_billiard-cue-ball-strike-01_kvv-audio_free.wav",
+    "t": 7.92,
+    "snr_db": 78.2,
+    "centroid_hz": 1727,
+    "lf_ratio": 0.0,
+    "t30_ms": 3.2,
+    "ring_db": 38.4,
+    "tail_db": -47.4,
+    "q_est": 25
+   },
+   {
+    "file": "ball/*_03",
+    "source": "2.3_830221__kvv_audio__sprtindor_billiard-cue-ball-strike-01_kvv-audio_free.wav",
+    "t": 5.239,
+    "snr_db": 64.8,
+    "centroid_hz": 2015,
+    "lf_ratio": 0.02,
+    "t30_ms": 7.8,
+    "ring_db": 43.3,
+    "tail_db": -38.0,
+    "q_est": 22
+   },
+   {
+    "file": "ball/*_04",
+    "source": "2.3_830221__kvv_audio__sprtindor_billiard-cue-ball-strike-01_kvv-audio_free.wav",
+    "t": 0.408,
+    "snr_db": 54.7,
+    "centroid_hz": 1848,
+    "lf_ratio": 0.02,
+    "t30_ms": 10.2,
+    "ring_db": 42.7,
+    "tail_db": -35.0,
+    "q_est": 26
+   },
+   {
+    "file": "ball/*_05",
+    "source": "2.3_830221__kvv_audio__sprtindor_billiard-cue-ball-strike-01_kvv-audio_free.wav",
+    "t": 4.72,
+    "snr_db": 40.8,
+    "centroid_hz": 1697,
+    "lf_ratio": 0.05,
+    "t30_ms": 1.5,
+    "ring_db": 36.0,
+    "tail_db": -41.2,
+    "q_est": 28
+   },
+   {
+    "file": "ball/*_06",
+    "source": "2.3_830221__kvv_audio__sprtindor_billiard-cue-ball-strike-01_kvv-audio_free.wav",
+    "t": 2.526,
+    "snr_db": 40.8,
+    "centroid_hz": 1913,
+    "lf_ratio": 0.07,
+    "t30_ms": 4.6,
+    "ring_db": 33.3,
+    "tail_db": -39.9,
+    "q_est": 26
+   },
+   {
+    "file": "ball/*_07",
+    "source": "2.2_62331__bsumusictech__pool-balls.wav",
+    "t": 2.3141,
+    "snr_db": 35.5,
+    "centroid_hz": 2017,
+    "lf_ratio": 0.12,
+    "t30_ms": 15.7,
+    "ring_db": 26.0,
+    "tail_db": -25.4,
+    "q_est": 33
+   },
+   {
+    "file": "ball/*_08",
+    "source": "2.3_830221__kvv_audio__sprtindor_billiard-cue-ball-strike-01_kvv-audio_free.wav",
+    "t": 9.489,
+    "snr_db": 37.3,
+    "centroid_hz": 1926,
+    "lf_ratio": 0.02,
+    "t30_ms": 8.0,
+    "ring_db": 33.5,
+    "tail_db": -38.9,
+    "q_est": 26
+   },
+   {
+    "file": "ball/*_09",
+    "source": "2.2_62331__bsumusictech__pool-balls.wav",
+    "t": 21.4048,
+    "snr_db": 37.2,
+    "centroid_hz": 2285,
+    "lf_ratio": 0.11,
+    "t30_ms": 5.3,
+    "ring_db": 19.5,
+    "tail_db": -29.2,
+    "q_est": 47
+   },
+   {
+    "file": "ball/*_10",
+    "source": "2.1_350918__csaszi__billiard-pool-shots-csg.wav",
+    "t": 10.0501,
+    "snr_db": 36.1,
+    "centroid_hz": 2279,
+    "lf_ratio": 0.01,
+    "t30_ms": 14.7,
+    "ring_db": 22.8,
+    "tail_db": -23.1,
+    "q_est": 56
+   }
+  ],
+  "rail": [
+   {
+    "file": "rail/*_01",
+    "source": "2.3_830221__kvv_audio__sprtindor_billiard-cue-ball-strike-01_kvv-audio_free.wav",
+    "t": 7.085,
+    "snr_db": 33.7,
+    "centroid_hz": 613,
+    "lf_ratio": 0.32,
+    "t30_ms": 11.0,
+    "ring_db": 53.0,
+    "tail_db": -25.0,
+    "q_est": 36
+   },
+   {
+    "file": "rail/*_02",
+    "source": "2.3_830221__kvv_audio__sprtindor_billiard-cue-ball-strike-01_kvv-audio_free.wav",
+    "t": 9.73,
+    "snr_db": 27.1,
+    "centroid_hz": 543,
+    "lf_ratio": 0.52,
+    "t30_ms": 14.5,
+    "ring_db": 58.1,
+    "tail_db": -27.0,
+    "q_est": 48
+   }
+  ]
+ },
+ "synth": {
+  "cue": [
+   {
+    "layer": "soft",
+    "centroid_hz": 971,
+    "lf_ratio": 0.23,
+    "t30_ms": 10.0,
+    "ring_db": 112.9,
+    "tail_db": -37.3,
+    "q_est": 23
+   },
+   {
+    "layer": "medium",
+    "centroid_hz": 1104,
+    "lf_ratio": 0.04,
+    "t30_ms": 11.0,
+    "ring_db": 98.1,
+    "tail_db": -37.3,
+    "q_est": 23
+   },
+   {
+    "layer": "hard",
+    "centroid_hz": 1136,
+    "lf_ratio": 0.12,
+    "t30_ms": 9.1,
+    "ring_db": 103.3,
+    "tail_db": -43.5,
+    "q_est": 24
+   }
+  ],
+  "ball": [
+   {
+    "layer": "soft",
+    "centroid_hz": 1520,
+    "lf_ratio": 0.0,
+    "t30_ms": 9.8,
+    "ring_db": 106.6,
+    "tail_db": -30.0,
+    "q_est": 21
+   },
+   {
+    "layer": "medium",
+    "centroid_hz": 1852,
+    "lf_ratio": 0.0,
+    "t30_ms": 11.3,
+    "ring_db": 96.2,
+    "tail_db": -35.9,
+    "q_est": 23
+   },
+   {
+    "layer": "hard",
+    "centroid_hz": 2235,
+    "lf_ratio": 0.0,
+    "t30_ms": 9.2,
+    "ring_db": 90.3,
+    "tail_db": -46.6,
+    "q_est": 21
+   }
+  ],
+  "rail": [
+   {
+    "layer": "soft",
+    "centroid_hz": 262,
+    "lf_ratio": 0.83,
+    "t30_ms": 10.0,
+    "ring_db": 39.8,
+    "tail_db": -32.9,
+    "q_est": 24
+   },
+   {
+    "layer": "medium",
+    "centroid_hz": 333,
+    "lf_ratio": 0.74,
+    "t30_ms": 11.4,
+    "ring_db": 27.5,
+    "tail_db": -34.2,
+    "q_est": 22
+   },
+   {
+    "layer": "hard",
+    "centroid_hz": 310,
+    "lf_ratio": 0.72,
+    "t30_ms": 8.4,
+    "ring_db": 30.0,
+    "tail_db": -29.2,
+    "q_est": 26
+   }
+  ],
+  "table": [
+   {
+    "layer": "soft",
+    "centroid_hz": 153,
+    "lf_ratio": 0.95,
+    "t30_ms": 7.1,
+    "ring_db": 52.4,
+    "tail_db": -37.1,
+    "q_est": 32
+   },
+   {
+    "layer": "medium",
+    "centroid_hz": 156,
+    "lf_ratio": 0.95,
+    "t30_ms": 14.4,
+    "ring_db": 52.6,
+    "tail_db": -34.0,
+    "q_est": 29
+   },
+   {
+    "layer": "hard",
+    "centroid_hz": 201,
+    "lf_ratio": 0.95,
+    "t30_ms": 9.3,
+    "ring_db": 44.5,
+    "tail_db": -37.0,
+    "q_est": 26
+   }
+  ]
+ },
+ "reference_real_means": {
+  "cue": {
+   "centroid_hz": 1299.14,
+   "lf_ratio": 0.29,
+   "t30_ms": 15.86
+  },
+  "ball": {
+   "centroid_hz": 1996.8,
+   "lf_ratio": 0.04,
+   "t30_ms": 8.7
+  },
+  "rail": {
+   "centroid_hz": 578.0,
+   "lf_ratio": 0.42,
+   "t30_ms": 14.6
+  }
+ }
+}

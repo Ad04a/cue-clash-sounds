@@ -1,0 +1,58 @@
+{
+ "0.35": {
+  "cue_speed": 6.06,
+  "ball_contacts": 33,
+  "contacts_first_50ms": 33,
+  "cushion_hits": 2,
+  "pocketed": 0,
+  "sim_seconds": 4.35,
+  "voices_hybrid": 9,
+  "voices_recorded": 9,
+  "voices_synth": 9
+ },
+ "0.55": {
+  "cue_speed": 11.15,
+  "ball_contacts": 35,
+  "contacts_first_50ms": 34,
+  "cushion_hits": 7,
+  "pocketed": 0,
+  "sim_seconds": 4.46,
+  "voices_hybrid": 16,
+  "voices_recorded": 16,
+  "voices_synth": 16
+ },
+ "0.75": {
+  "cue_speed": 16.95,
+  "ball_contacts": 34,
+  "contacts_first_50ms": 32,
+  "cushion_hits": 11,
+  "pocketed": 0,
+  "sim_seconds": 7.24,
+  "voices_hybrid": 21,
+  "voices_recorded": 21,
+  "voices_synth": 21
+ },
+ "0.9": {
+  "cue_speed": 21.69,
+  "ball_contacts": 93,
+  "contacts_first_50ms": 81,
+  "cushion_hits": 14,
+  "pocketed": 0,
+  "sim_seconds": 6.53,
+  "voices_hybrid": 33,
+  "voices_recorded": 33,
+  "voices_synth": 33
+ },
+ "1.0": {
+  "cue_speed": 25.0,
+  "ball_contacts": 40,
+  "contacts_first_50ms": 32,
+  "cushion_hits": 18,
+  "pocketed": 1,
+  "sim_seconds": 6.38,
+  "voices_hybrid": 31,
+  "voices_recorded": 31,
+  "voices_synth": 31,
+  "voices_naive": 55
+ }
+}
