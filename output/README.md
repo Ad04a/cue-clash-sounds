@@ -25,7 +25,7 @@ three uploads). The improved impact bank built from new recordings is in `../v3/
 | `roblox/ImpactAtlas.luau` | Generated table of where each clip starts and how long it is inside the atlas files |
 | `roblox/ImpactAudio.luau` | The runtime mechanism (Luau, `--!strict`) |
 | `roblox/AudioController.luau` | Drop-in version of the game's AudioController that uses ImpactAudio |
-| `break_renders/` | Simulated breaks at 35 / 55 / 75 / 90 / 100 % power, rendered through the mechanism. Also has the event logs, `summary.json` and `break_overview.png` |
+| `break_renders/` | The simulated breaks at 35 / 55 / 75 / 90 / 100 % power: event logs, `summary.json` and `break_overview.png`. The rendered WAV/OGG files of these breaks are now in `../real-shit/` |
 | `analysis/` | Spectrogram of every source file, `analysis.json` (each detected impact) and `bank_contact_sheet.png` |
 | `tools/ring_metrics.py`, `tools/calib.py` | Measure how "metallic" a clip is (ring time, tail level, Q) and print the calibration table |
 | `ui-sounds/`, `ambient-sounds/` | UI and game-event sounds, each with a README, `manifest.json` and preview reels |

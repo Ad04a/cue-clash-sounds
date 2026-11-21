@@ -39,14 +39,18 @@ for folder, title in (("ui-sounds", "UI sounds"), ("ambient-sounds", "Game sound
             rows.append(player(f"{folder}/{f['file']}.ogg", f"{os.path.basename(f['file'])}"))
     rows.append("</div>")
 
+# the v2 break renders were moved to ../real-shit/ (the picks); fall back to break_renders/
 for title, pattern in [
-    ("Break previews (mechanism, hybrid bank)", "break_renders/break_power*_hybrid.wav"),
-    ("Break: every event played (no mechanism) for comparison", "break_renders/*NAIVE*.wav"),
-    ("Break previews (recorded bank)", "break_renders/break_power*_recorded.wav"),
-    ("Break previews (synth bank)", "break_renders/break_power*_synth.wav"),
+    ("Break previews (mechanism, hybrid bank)", "break_power*_hybrid.wav"),
+    ("Break: every event played (no mechanism) for comparison", "*NAIVE*.wav"),
+    ("Break previews (recorded bank)", "break_power*_recorded.wav"),
+    ("Break previews (synth bank)", "break_power*_synth.wav"),
 ]:
+    files = []
+    for d in (os.path.join(out, "break_renders"), os.path.join(out, "..", "real-shit")):
+        files = files or sorted(glob.glob(os.path.join(d, pattern)))
     rows.append(f"<h2>{title}</h2>")
-    rows += [player(os.path.relpath(f, out)) for f in sorted(glob.glob(os.path.join(out, pattern)))]
+    rows += [player(os.path.relpath(f, out)) for f in files]
 for bank in ("recorded", "synth"):
     for kind in ("cue", "ball", "rail", "table", "cluster"):
         files = sorted(glob.glob(os.path.join(out, "sounds", bank, kind, "*.wav")))
